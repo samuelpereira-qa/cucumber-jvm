@@ -10,7 +10,7 @@ Apresentar boas práticas de desenvolvimento de teste E2E de software
 
 
 ### Clonar o projeto:
-```git clone https://<seu usuario@stash.uol.intranet/scm/cdt/bestpraticesweb.git```
+```git clone https://github.com/samuelpereira-qa/cucumber-jvm.git```
 
 
 
@@ -21,4 +21,4 @@ Apresentar boas práticas de desenvolvimento de teste E2E de software
 
 
 ---------------------------------------
-#### Autor: Samuel Pereira <sppereira@uolinc.com>
+#### Autor: Samuel Pereira <samuelpereira.qa@outlook.com>
